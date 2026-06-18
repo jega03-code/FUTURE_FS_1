@@ -37,5 +37,5 @@ It is designed to present my work, skills, and contact information in a clean an
 - CSS3  
 - JavaScript (Vanilla JS)
 
-
-## 📂 Project Structure
+# Author
+Jeganathan E
